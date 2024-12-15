@@ -3,3 +3,4 @@
 3 mixed 
 create a branch
 how to solve conflict   
+now i fixed the issue on main 
