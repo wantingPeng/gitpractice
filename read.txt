@@ -2,5 +2,4 @@
 2
 3 mixed 
 create a branch
-switch 
-creat a conflict on main
+how to solve conflict   
