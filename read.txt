@@ -4,3 +4,4 @@
 create a branch
 how to solve conflict   
 now i fixed the issue on main 
+now i fixed the issue on main  2 
