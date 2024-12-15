@@ -2,4 +2,5 @@
 2
 3 mixed 
 create a branch
-switch 
+how to solve conflict   
+now i fixed the issue on main 
